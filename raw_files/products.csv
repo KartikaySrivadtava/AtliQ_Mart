@@ -1,0 +1,61 @@
+product_id,product_name,category,brand,mrp
+P001,Amul Gold Milk 500ml,Dairy,Amul,34
+P002,Amul Butter 100g,Dairy,Amul,62
+P003,Amul Masti Curd 400g,Dairy,Amul,45
+P004,Nandini Paneer 200g,Dairy,Nandini,95
+P005,Mother Dairy Cheese Slices,Dairy,Mother Dairy,130
+P006,Britannia Brown Bread,Bakery,Britannia,50
+P007,Britannia Good Day 100g,Bakery,Britannia,30
+P008,Harvest Gold Pav 6pc,Bakery,Harvest Gold,35
+P009,Parle-G Gold 200g,Bakery,Parle,40
+P010,Bourbon Biscuits 150g,Bakery,Britannia,45
+P011,Fresh Tomato 1kg,Fruits & Vegetables,Farm Fresh,48
+P012,Fresh Onion 1kg,Fruits & Vegetables,Farm Fresh,42
+P013,Potato 1kg,Fruits & Vegetables,Farm Fresh,38
+P014,Banana Robusta 6pc,Fruits & Vegetables,Farm Fresh,52
+P015,Apple Shimla 4pc,Fruits & Vegetables,Farm Fresh,165
+P016,Baby Spinach 250g,Fruits & Vegetables,Farm Fresh,29
+P017,Green Capsicum 500g,Fruits & Vegetables,Farm Fresh,44
+P018,Coriander Bunch,Fruits & Vegetables,Farm Fresh,15
+P019,Coca Cola 750ml,Beverages,Coca Cola,45
+P020,Sprite 750ml,Beverages,Coca Cola,45
+P021,Red Bull 250ml,Beverages,Red Bull,125
+P022,Tropicana Orange 1L,Beverages,Tropicana,120
+P023,Bisleri Water 1L,Beverages,Bisleri,20
+P024,Nescafe Classic 50g,Beverages,Nescafe,190
+P025,Tata Tea Premium 500g,Beverages,Tata,265
+P026,Lays Classic Salted 52g,Snacks,Lays,20
+P027,Kurkure Masala Munch 90g,Snacks,Kurkure,20
+P028,Haldiram Bhujia 200g,Snacks,Haldiram,55
+P029,Dairy Milk Silk 60g,Snacks,Cadbury,90
+P030,Maggi Noodles 4-pack,Snacks,Maggi,60
+P031,Too Yumm Multigrain 54g,Snacks,Too Yumm,30
+P032,Aashirvaad Atta 5kg,Staples,Aashirvaad,285
+P033,India Gate Basmati 1kg,Staples,India Gate,175
+P034,Fortune Sunflower Oil 1L,Staples,Fortune,148
+P035,Tata Salt 1kg,Staples,Tata,28
+P036,Toor Dal 1kg,Staples,Organic Tattva,168
+P037,Sugar 1kg,Staples,Madhur,52
+P038,Surf Excel Matic 1kg,Household,Surf Excel,235
+P039,Vim Dishwash Gel 500ml,Household,Vim,118
+P040,Harpic Toilet Cleaner 1L,Household,Harpic,195
+P041,Colin Glass Cleaner 500ml,Household,Colin,99
+P042,Scotch Brite Scrub Pad,Household,Scotch Brite,45
+P043,Dettol Handwash 200ml,Personal Care,Dettol,99
+P044,Head & Shoulders 340ml,Personal Care,Head & Shoulders,385
+P045,Colgate Strong Teeth 200g,Personal Care,Colgate,115
+P046,Dove Soap 100g,Personal Care,Dove,62
+P047,Gillette Mach3 Cartridge,Personal Care,Gillette,320
+P048,Nivea Body Lotion 400ml,Personal Care,Nivea,425
+P049,Pampers Pants M 32pc,Baby Care,Pampers,599
+P050,Cerelac Wheat 300g,Baby Care,Nestle,295
+P051,Johnson Baby Shampoo 200ml,Baby Care,Johnson,180
+P052,Himalaya Baby Wipes 72pc,Baby Care,Himalaya,199
+P053,Pedigree Adult 1.2kg,Pet Care,Pedigree,380
+P054,Whiskas Tuna 480g,Pet Care,Whiskas,320
+P055,Amul Ice Cream Tub 700ml,Frozen,Amul,250
+P056,McCain French Fries 750g,Frozen,McCain,199
+P057,ID Fresh Idli Batter 1kg,Frozen,ID Fresh,85
+P058,Sumeru Green Peas 500g,Frozen,Sumeru,130
+P059,Eggs Brown 6pc,Dairy,Farm Fresh,78
+P060,Chicken Curry Cut 500g,Meat,Licious,285

@@ -1,0 +1,121 @@
+rider_id,rider_name,store_id,vehicle_type,joining_date,is_active
+R0001,Suresh Kumar,ST001,EV Scooter,2025-10-16,true
+R0002,Suresh Mehta,ST002,EV Scooter,2024-12-12,true
+R0003,Sunil Kumar,ST003,Bike,2025-11-12,true
+R0004,Jitendra Kumar,ST004,Bike,2024-08-27,true
+R0005,Sunil Patil,ST005,Bike,2025-09-12,true
+R0006,Arjun Gupta,ST006,EV Scooter,2025-04-17,true
+R0007,Deepak Patil,ST007,Bicycle,2025-07-14,true
+R0008,Kiran Sharma,ST008,Bike,2025-07-06,true
+R0009,Ravi Rao,ST009,Bike,2026-02-16,false
+R0010,Kiran Sharma,ST010,Bike,2024-09-18,true
+R0011,Naveen Joshi,ST001,Bike,2026-04-13,true
+R0012,Sandeep Gupta,ST002,Bike,2026-04-03,true
+R0013,Suresh Singh,ST003,Bike,2024-09-11,true
+R0014,Manoj Verma,ST004,Bike,2025-09-23,true
+R0015,Imran Joshi,ST005,EV Scooter,2024-12-24,true
+R0016,Manoj Iyer,ST006,Bike,2024-09-06,true
+R0017,Sandeep Mehta,ST007,Bike,2026-04-27,true
+R0018,Ravi Gupta,ST008,Bike,2025-09-22,true
+R0019,Harish Yadav,ST009,EV Scooter,2025-11-18,true
+R0020,Kiran Yadav,ST010,Bicycle,2025-03-11,true
+R0021,Deepak Patil,ST001,EV Scooter,2024-12-19,true
+R0022,Harish Singh,ST002,EV Scooter,2025-05-11,true
+R0023,Deepak Das,ST003,Bike,2026-05-06,true
+R0024,Deepak Mehta,ST004,Bike,2025-04-17,true
+R0025,Kiran Singh,ST005,Bike,2025-03-01,true
+R0026,Gopal Shetty,ST006,Bicycle,2026-02-26,true
+R0027,Gopal Gupta,ST007,Bike,2024-09-05,true
+R0028,Anil Singh,ST008,Bike,2026-06-20,false
+R0029,Rahul Das,ST009,EV Scooter,2025-01-20,false
+R0030,Anil Shetty,ST010,EV Scooter,2024-10-08,true
+R0031,Naveen Gupta,ST001,Bike,2024-12-27,false
+R0032,Jitendra Verma,ST002,Bike,2026-03-01,false
+R0033,Anil Patil,ST003,Bike,2024-11-20,false
+R0034,Imran Rao,ST004,Bike,2026-04-14,false
+R0035,Gopal Gupta,ST005,Bike,2025-02-22,false
+R0036,Manoj Nair,ST006,Bike,2024-10-10,true
+R0037,Vikas Yadav,ST007,Bike,2025-11-30,true
+R0038,Kiran Mehta,ST008,EV Scooter,2025-04-01,false
+R0039,Ajay Sharma,ST009,Bike,2026-04-19,true
+R0040,Harish Das,ST010,Bike,2025-11-10,true
+R0041,Ravi Patil,ST001,Bike,2026-05-22,true
+R0042,Imran Das,ST002,Bike,2025-02-11,true
+R0043,Deepak Rao,ST003,Bicycle,2024-11-16,true
+R0044,Sandeep Gupta,ST004,Bike,2025-05-03,true
+R0045,Suresh Mehta,ST005,Bike,2025-04-16,true
+R0046,Ravi Mehta,ST006,EV Scooter,2024-08-31,true
+R0047,Kiran Rao,ST007,Bike,2026-03-04,true
+R0048,Vikas Das,ST008,Bike,2025-04-17,true
+R0049,Ajay Patil,ST009,EV Scooter,2026-04-07,true
+R0050,Gopal Sharma,ST010,Bike,2024-12-17,true
+R0051,Imran Yadav,ST001,EV Scooter,2025-10-24,true
+R0052,Rakesh Iyer,ST002,Bike,2025-05-09,false
+R0053,Manoj Singh,ST003,Bike,2025-05-20,true
+R0054,Ajay Nair,ST004,Bike,2024-12-01,true
+R0055,Rakesh Reddy,ST005,Bike,2025-11-13,false
+R0056,Harish Rao,ST006,Bike,2025-08-06,true
+R0057,Harish Iyer,ST007,Bike,2024-12-27,true
+R0058,Farhan Sharma,ST008,EV Scooter,2026-04-14,true
+R0059,Sandeep Singh,ST009,Bike,2024-11-17,true
+R0060,Jitendra Kumar,ST010,EV Scooter,2025-04-20,true
+R0061,Harish Das,ST001,Bike,2025-09-29,true
+R0062,Prakash Patil,ST002,Bike,2026-02-09,true
+R0063,Anil Iyer,ST003,Bike,2026-04-10,true
+R0064,Jitendra Joshi,ST004,Bicycle,2026-04-09,true
+R0065,Farhan Nair,ST005,Bike,2025-07-01,false
+R0066,Sandeep Verma,ST006,Bike,2025-04-01,true
+R0067,Anil Joshi,ST007,Bicycle,2024-08-23,true
+R0068,Gopal Nair,ST008,Bicycle,2026-03-09,false
+R0069,Deepak Nair,ST009,Bike,2026-03-06,true
+R0070,Deepak Nair,ST010,Bike,2025-11-20,true
+R0071,Vikas Mehta,ST001,EV Scooter,2025-09-26,true
+R0072,Rahul Yadav,ST002,Bicycle,2026-05-02,true
+R0073,Sunil Shetty,ST003,Bike,2026-06-20,true
+R0074,Deepak Mehta,ST004,Bicycle,2026-01-09,true
+R0075,Gopal Rao,ST005,Bike,2026-06-14,true
+R0076,Deepak Das,ST006,Bike,2025-06-10,true
+R0077,Deepak Singh,ST007,Bike,2025-08-12,true
+R0078,Ravi Yadav,ST008,Bike,2025-10-11,true
+R0079,Naveen Gupta,ST009,Bike,2025-05-03,false
+R0080,Deepak Yadav,ST010,Bicycle,2026-01-08,false
+R0081,Manoj Yadav,ST001,Bike,2025-12-22,true
+R0082,Prakash Gupta,ST002,Bicycle,2025-10-12,true
+R0083,Suresh Singh,ST003,EV Scooter,2025-02-27,true
+R0084,Ajay Verma,ST004,Bike,2025-11-02,true
+R0085,Vikas Singh,ST005,Bike,2026-04-13,false
+R0086,Rahul Verma,ST006,EV Scooter,2025-05-10,true
+R0087,Gopal Verma,ST007,Bicycle,2026-02-25,true
+R0088,Rahul Reddy,ST008,Bike,2025-09-25,true
+R0089,Jitendra Singh,ST009,Bike,2025-08-06,true
+R0090,Farhan Sharma,ST010,Bike,2024-11-10,true
+R0091,Ravi Rao,ST001,Bike,2025-01-07,false
+R0092,Gopal Mehta,ST002,EV Scooter,2025-12-04,true
+R0093,Imran Mehta,ST003,Bicycle,2024-09-23,true
+R0094,Suresh Rao,ST004,Bicycle,2025-01-20,true
+R0095,Sunil Verma,ST005,Bike,2025-08-25,true
+R0096,Vikas Singh,ST006,EV Scooter,2025-05-31,true
+R0097,Manoj Joshi,ST007,Bike,2025-05-04,true
+R0098,Arjun Nair,ST008,Bike,2025-04-09,true
+R0099,Jitendra Mehta,ST009,Bike,2025-03-28,true
+R0100,Vikas Das,ST010,Bike,2026-01-01,true
+R0101,Anil Das,ST001,EV Scooter,2024-09-27,true
+R0102,Sandeep Mehta,ST002,Bike,2025-12-02,true
+R0103,Ravi Patil,ST003,Bicycle,2024-10-06,true
+R0104,Imran Iyer,ST004,Bike,2024-09-17,true
+R0105,Kiran Iyer,ST005,Bike,2026-01-23,true
+R0106,Arjun Yadav,ST006,EV Scooter,2026-03-06,true
+R0107,Sandeep Reddy,ST007,EV Scooter,2025-01-09,true
+R0108,Gopal Patil,ST008,Bicycle,2026-02-19,true
+R0109,Ajay Mehta,ST009,Bike,2024-11-28,true
+R0110,Ajay Joshi,ST010,EV Scooter,2025-01-23,true
+R0111,Gopal Iyer,ST001,EV Scooter,2025-02-22,true
+R0112,Sandeep Shetty,ST002,EV Scooter,2025-01-06,true
+R0113,Sandeep Nair,ST003,Bike,2025-09-04,true
+R0114,Prakash Verma,ST004,EV Scooter,2026-04-02,true
+R0115,Sandeep Singh,ST005,EV Scooter,2025-11-16,true
+R0116,Sunil Verma,ST006,Bike,2025-04-24,true
+R0117,Sunil Singh,ST007,Bicycle,2024-11-02,false
+R0118,Arjun Shetty,ST008,EV Scooter,2024-11-11,true
+R0119,Arjun Verma,ST009,Bike,2025-05-20,true
+R0120,Sunil Das,ST010,EV Scooter,2024-12-11,true
