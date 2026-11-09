@@ -1,0 +1,15 @@
+Project: AtliQ Mart — End-to-End Data Engineering Pipeline using Databricks
+
+Developed an end-to-end data engineering pipeline using Databricks, PySpark, SQL, and Delta Lake, implementing the Medallion Architecture (Bronze, Silver, Gold).
+
+Bronze: Ingested five CSV datasets containing orders, order items, products, riders, and store information into Delta tables with ingestion audit columns.
+
+Silver: Implemented data cleaning, deduplication, standardization, and joins using PySpark. Created derived metrics including delivery duration, late-delivery indicators, and net order amounts.
+
+Gold: Developed three analytical tables for city-level delivery performance, rider scorecards, and product-category sales analysis.
+
+Data Quality: Validated duplicate records, invalid order amounts, inconsistent city names, and order statuses.
+
+Technology: Databricks, Apache Spark, PySpark, Spark SQL, Delta Lake, Unity Catalog, and Medallion Architecture.
+
+Outcome: Transformed raw operational data into structured, business-ready analytical datasets to support delivery performance monitoring, rider evaluation, and sales analysis.
